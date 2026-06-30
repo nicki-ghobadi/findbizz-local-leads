@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Secrets
+.env
+.env.local
+.env.*.local
+
+# Vercel (project link stays local; do not commit)
+.vercel
+
+# OS / IDE
+.DS_Store
+*.log
