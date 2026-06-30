@@ -2,7 +2,9 @@
 
 Google Maps local business leads
 
-**Production:** https://localleads.findbizz.online
+**Production:** https://localleads.findbizz.online  
+**Repo:** https://github.com/nicki-ghobadi/findbizz-local-leads  
+**Vercel:** findbizz-local-leads
 
 ## Setup
 
